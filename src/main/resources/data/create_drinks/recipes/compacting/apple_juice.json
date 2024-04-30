@@ -1,0 +1,17 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+        {
+            "item": "minecraft:apple"
+        },
+        {
+            "item": "minecraft:sugar"
+        }
+    ],
+    "results": [
+        {
+            "fluid": "create_drinks:apple_juice",
+            "amount": 250
+        }
+    ]
+}

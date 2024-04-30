@@ -1,0 +1,17 @@
+{
+    "type": "create:filling",
+    "ingredients": [
+        {
+            "item": "minecraft:glass_bottle"
+        },
+        {
+            "fluid": "create_drinks:chorus_fruit_juice",
+            "amount": 250
+        }
+    ],
+    "results": [
+        {
+            "item": "create_drinks:chorus_fruit_juice_bottle"
+        }
+    ]
+}

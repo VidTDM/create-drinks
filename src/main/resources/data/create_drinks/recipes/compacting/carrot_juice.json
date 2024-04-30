@@ -1,0 +1,17 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+        {
+            "item": "minecraft:carrot"
+        },
+        {
+            "item": "minecraft:sugar"
+        }
+    ],
+    "results": [
+        {
+            "fluid": "create_drinks:carrot_juice",
+            "amount": 250
+        }
+    ]
+}

@@ -1,0 +1,17 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+        {
+            "item": "minecraft:glow_berries"
+        },
+        {
+            "item": "minecraft:sugar"
+        }
+    ],
+    "results": [
+        {
+            "fluid": "create_drinks:glow_berry_juice",
+            "amount": 250
+        }
+    ]
+}

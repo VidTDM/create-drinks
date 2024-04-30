@@ -1,0 +1,17 @@
+{
+    "type": "create:compacting",
+    "ingredients": [
+        {
+            "item": "minecraft:melon_slice"
+        },
+        {
+            "item": "minecraft:sugar"
+        }
+    ],
+    "results": [
+        {
+            "fluid": "create_drinks:melon_juice",
+            "amount": 250
+        }
+    ]
+}
